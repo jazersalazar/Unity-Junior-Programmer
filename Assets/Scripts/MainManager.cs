@@ -41,7 +41,6 @@ public class MainManager : MonoBehaviour
     public void LoadColor()
     {
         string path = Application.persistentDataPath + "/savefile.json";
-        Debug.Log(Application.persistentDataPath + "/savefile.json");
         if (File.Exists(path))
         {
             string json = File.ReadAllText(path);
