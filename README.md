@@ -92,3 +92,10 @@
 - Data persistence between sessions
 - Highscore System
 - Leaderboard System
+
+2. Counting Game
+- Game Manager
+- Player Movement
+- Collision Detection
+- Score System
+- Life System
