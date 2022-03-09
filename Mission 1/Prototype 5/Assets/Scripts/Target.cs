@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class Target : MonoBehaviour 
 {
+    public int pointValue;
+
     private Rigidbody targetRb;
+    private GameManager gameManager;
 
     private float minSpeed = 12;
     private float maxSpeed = 16;
@@ -19,6 +22,8 @@ public class Target : MonoBehaviour
         targetRb.AddForce(RandomForce(), ForceMode.Impulse);
         targetRb.AddTorque(RandomTorque(), RandomTorque(), RandomTorque(), ForceMode.Impulse);
         transform.position = RandomSpawnPos();
+
+        gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
     }
 
     Vector3 RandomForce()
@@ -38,6 +43,7 @@ public class Target : MonoBehaviour
 
     private void OnMouseDown() 
     {
+        gameManager.UpdateScore(pointValue);
         Destroy(gameObject);
     }
 
