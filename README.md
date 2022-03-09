@@ -31,17 +31,19 @@
    - Trigger
    - Collision
    - AddForce
-5. Click Mania
+5. Clicky Crates
    - Game Manager
    - Coroutine
    - Scene Management
    - OnMouseDown
-   - Difficulty Setting
+   - Difficulty System
    - Border/Range
    - Sensor/Trigger
    - AddForce
    - AddTorque
    - Particle System
+   - Score System
+   - Game Over System
 
 ### Challenge
 1. Airplane Game (Flappy Bird)
