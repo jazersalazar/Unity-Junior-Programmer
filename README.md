@@ -1,5 +1,5 @@
 # Unity Junior Programmer
- Collection of unity junior programmer pathway's prototypes and challenges
+A root repository that links to the collection of unity junior programmer pathway's prototypes and challenges
 ---
 ## Mission 1
 ### Prototypes
