@@ -82,30 +82,30 @@ A root repository that links to the collections of unity junior programmer pathw
 ## Mission 2
 ### Prototype
 1. Warehouse
-- Scene flow
-- Data persitence between scenes
-- Data persistence between sessions
-### Challenge
+   - Scene flow
+   - Data persitence between scenes
+   - Data persistence between sessions
 
+### Challenge
 1. Pong
-- Scene flow
-- Dynamic input
-- Data persitence between scenes
-- Data persistence between sessions
-- Highscore System
-- Leaderboard System
+   - Scene flow
+   - Dynamic input
+   - Data persitence between scenes
+   - Data persistence between sessions
+   - Highscore System
+   - Leaderboard System
 
 2. Counting Game
-- Game Manager
-- Player Movement
-- Collision Detection
-- Score System
-- Life System
+   - Game Manager
+   - Player Movement
+   - Collision Detection
+   - Score System
+   - Life System
   
 3. <a href="https://github.com/jazersalazar/Data-Persistence-Project">Data Persistence</a>
-- Scene flow
-- Dynamic input
-- Data persitence between scenes
-- Data persistence between sessions
-- Highscore System
-- Leaderboard System
+   - Scene flow
+   - Dynamic input
+   - Data persitence between scenes
+   - Data persistence between sessions
+   - Highscore System
+   - Leaderboard System
