@@ -1,6 +1,6 @@
 # Unity Junior Programmer
 A root repository that links to the collections of unity junior programmer pathway's documents, prototypes and challenges
----
+
 ## Mission 1
 ### Prototypes
 1. Racing Game
@@ -78,7 +78,7 @@ A root repository that links to the collections of unity junior programmer pathw
    - Countdown Timer
    - Trigger
    - OnMouseDown
----
+
 ## Mission 2
 ### Prototype
 1. Warehouse
