@@ -1,6 +1,7 @@
 # Unity Junior Programmer
 A root repository that links to the collections of unity junior programmer pathway's documents, prototypes and challenges
 
+## <a href="https://github.com/jazersalazar/ujp-docs">Documents</a>
 ## <a href="https://github.com/jazersalazar/ujp-essentials">Essentials</a>
 ## Mission 1
 ### Prototypes
